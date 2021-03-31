@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Doctor Appoinment",
+      "day": "June, 06, 2021",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "text": "Meeting at School,",
+      "day": "August, 01, 2020",
+      "reminder": false
+    },
+    {
+      "id": 3,
+      "text": "Food Shopping,",
+      " day": "April, 10, 2021",
+      "reminder": true
+    },
+    {
+      "text": "Take Test",
+      "day": "Friday",
+      "reminder": true,
+      "id": 4
+    }
+  ]
+}
